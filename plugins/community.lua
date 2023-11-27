@@ -9,4 +9,5 @@ return {
   -- { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.completion.copilot-lua" },
+  { import = "astrocommunity.markdown-and-latex.vimtex" },
 }
