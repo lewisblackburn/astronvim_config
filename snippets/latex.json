@@ -1,0 +1,9 @@
+{
+  "highlight specific word": {
+    "prefix": "vb",
+    "body": [
+      "\\verb|$1|"
+    ],
+    "description": "highlight specific word"
+  }
+}

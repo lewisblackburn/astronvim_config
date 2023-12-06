@@ -7,7 +7,9 @@ return {
   { import = "astrocommunity.colorscheme.poimandres-nvim" },
   { import = "astrocommunity.pack.typescript" },
   -- { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.completion.copilot-lua" },
   { import = "astrocommunity.markdown-and-latex.vimtex" },
+  { import = "astrocommunity.media.presence-nvim" },
 }
