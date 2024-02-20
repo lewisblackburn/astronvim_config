@@ -6,6 +6,8 @@ return {
 
   { import = "astrocommunity.colorscheme.poimandres-nvim" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.prisma" },
+  { import = "astrocommunity.pack.java" },
   -- { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.rust" },
