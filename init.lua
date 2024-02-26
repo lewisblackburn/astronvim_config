@@ -18,7 +18,8 @@ return {
   },
 
   -- Set colorscheme to use
-  colorscheme = "poimandres",
+  -- This is turned off as my dotfiles will set the colorscheme
+  -- colorscheme = "poimandres",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
