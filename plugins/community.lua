@@ -15,4 +15,5 @@ return {
   { import = "astrocommunity.completion.copilot-lua" },
   { import = "astrocommunity.markdown-and-latex.vimtex" },
   { import = "astrocommunity.media.presence-nvim" },
+  { import = "astrocommunity.color.transparent-nvim" },
 }
